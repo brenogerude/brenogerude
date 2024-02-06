@@ -1,13 +1,17 @@
 Software Engineer and Architect
 -------------------------------
 
-My software engineering journey began all the way back in 2014 when I was 19 years old and started to work as a PHP developer at TerraZoo. Fast-forward to 2016 when I started to work for the government at SEAP (Penitentiary State Department of Maranhão). There I spent a bunch of time working in a highly critical and secure environment, building an extremely challenging solution called SIISP (Intelligence, Information, and Prison Security System). After working on dozens and dozens of different projects (Education, Logistics, Government, Health Care, Financial, Foreign Trade, etc...), I wanted to focus my career on digital products and application modernization, so I started working at Bossabox in the spring of 2020 as a Solutions Architect Specialist. I worked with a remarkable team of people empowering those who transform, a bit every single day. Today I'm working as a Software Engineer at Highline, using mainly Go to develop features on our API.
+I have 9 years of Software Engineering experience, and with that, I bring substantial knowledge spanning diverse industries such as Education, Logistics, Government, Health Care, Financial Services, and International Logistics. 
+My understanding of the latest market trends and the intricacies of Software Engineering sets me apart. 
+I'm fluent in Java/Kotlin, Javascript/Typescript, and Go.
+ · Extensive experience with DDD, TDD, Microservices, Event-Sourcing, CQRS, BFF, Message Brokers, and Data Stream.
+ · AWS experience.
+ · Good knowledge of Front-end stacks (Mostly React).
+ · Application Modernization
 
 * 🌍  I'm based in São Luís - MA, Brazil
 * ✉️  You can contact me at [contato@brenogerude.com.br](mailto:contato@brenogerude.com.br)
-* 🚀  I'm currently working on [Highline](http://highline.co/)
-* 🧠  I'm learning Python (Just for fun)
-* ⚡  I'm a Back-end engineer, but sometimes I do some Front-end stuff just for fun (mostly with React)
+* 🧠  I'm learning Python and Rust (Just for fun)
 
 ### Skills
 
